@@ -73,15 +73,15 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 `React` `JavaScript` `Node.js` `Express.js` `Zod` `Generative UI` `Streaming AI Interfaces`
 
-## `$ cat education.md`
+## Education
 
 [![Education](https://img.shields.io/badge/B.Tech%20CSE-Pranveer%20Singh%20Institute%20of%20Technology-CBA6F7?style=for-the-badge&labelColor=1E1E2E)](#)
 
-## `$ curl leetcode.com/Ayushi4206`
+## leetcode.com/Ayushi4206
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ayushi4206-CBA6F7?style=for-the-badge&logo=leetcode&logoColor=1E1E2E)](https://leetcode.com/u/fexyrNKjrs)
 
-## `$ fetch github-analytics/`
+## Github-Analytics
 
 <div align="center">
 
@@ -92,7 +92,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ ./show_trophies.sh`
+## Trophies
 
 <div align="center">
 
@@ -100,7 +100,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ plot activity-graph.svg`
+## Activity-Graph
 
 <div align="center">
 
@@ -108,7 +108,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ generate summary-cards/`
+## Summary
 
 <div align="center">
 
@@ -120,7 +120,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ ./run contribution-snake.sh`
+## Contribution-snake
 
 <div align="center">
 
@@ -128,7 +128,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ cat current_focus.yaml`
+## Current_focus
 
 ```yaml
 current_focus:
@@ -151,7 +151,7 @@ current_focus:
     - Software Engineering Intern
 ```
 
-## `$ ./connect.sh`
+## Connect
 
 <div align="center">
 
