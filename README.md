@@ -166,24 +166,21 @@ OPEN_TO   : AI-Integrated Full-Stack Dev · Software Engineer · AI Engineer
 
 ```yaml
 current_focus:
-  learning:
-    - AI/LLM application development
-    - Data Structures & Algorithms with Java
-    - Scalable application design
-  building:
-    - AI-integrated full-stack web applications
-    - Generative UI and streaming AI interfaces
-  exploring:
-    - React, Node.js, and FastAPI in combination for AI-first apps
-  open_to:
-    - AI-Integrated Full-Stack Developer
-    - Software Engineer
-    - Full-Stack Developer
-    - AI Engineer / AI Application Engineer
-    - Backend Developer
-    - Frontend Developer
-    - Applications Engineer
-    - Software Engineering Intern
+  - AI-integrated full-stack development
+  - AI/LLM application development
+  - Backend engineering and REST APIs
+  - React and Node.js
+  - Data Structures & Algorithms
+
+open_to:
+  - AI-Integrated Full-Stack Developer
+  - Software Engineer
+  - Full-Stack Developer
+  - AI Engineer / AI Application Engineer
+  - Backend Developer
+  - Frontend Developer
+  - Applications Engineer
+  - Software Engineering Intern
 ```
 
 ---
