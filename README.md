@@ -18,7 +18,7 @@
 
 </div>
 
-## `$ cat about.md`
+
 
 I'm a Computer Science & Engineering undergraduate building full-stack applications with AI woven into the frontend, backend, APIs, and workflows — not bolted on as an afterthought. I care about turning intelligent systems into practical, usable software, across web apps, automation, and engineering tools.
 
