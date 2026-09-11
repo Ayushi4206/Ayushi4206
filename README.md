@@ -30,7 +30,7 @@ STACK    = ["Java", "Python", "JavaScript", "React", "Node.js", "Express.js", "F
 OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Stack Developer", "AI Engineer"]
 ```
 
-## `$ ls tech-stack/`
+## Tech-stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ echo $SPECIALTY`
+## Speciality
 
 <div align="center">
 
@@ -51,7 +51,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ grep -r expertise/`
+## Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -62,7 +62,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 | Web Applications | Core | React, JavaScript |
 | Intelligent Automation | Growing | AI-driven workflows |
 
-## `$ tail -f experience.log`
+## Experience
 
 **Front-end AI Engineering Intern** · FlyRank.ai
 `July 2026 — September 2026`
