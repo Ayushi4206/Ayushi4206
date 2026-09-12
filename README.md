@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CBA6F7,35:89B4FA,70:A6E3A1,100:F38BA8&height=200&section=header&text=Ayushi%20Gupta&fontSize=42&fontColor=1E1E2E&fontAlignY=35&desc=AI-Integrated%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A6E3A1&background=1E1E2E&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Ayushi+Gupta;%24+role+%E2%86%92+AI-Integrated+Full-Stack+Developer;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;%24+focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;%24+status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A6E3A1&background=1E1E2E&center=true&vCenter=true&width=650&lines=Who_Am_I+%E2%86%92+Ayushi+Gupta;Role+%E2%86%92+AI-Integrated+Full-Stack+Developer;Stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;Focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;%24+status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
 
 [![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-CBA6F7?style=flat-square&labelColor=1E1E2E)](#)
 [![University](https://img.shields.io/badge/University-Pranveer%20Singh%20Institute%20of%20Technology-89B4FA?style=flat-square&labelColor=1E1E2E)](#)
@@ -18,7 +18,7 @@
 
 </div>
 
-## `$ cat about.md`
+## About
 
 I'm a Computer Science & Engineering undergraduate building full-stack applications with AI woven into the frontend, backend, APIs, and workflows — not bolted on as an afterthought. I care about turning intelligent systems into practical, usable software, across web apps, automation, and engineering tools.
 
@@ -30,7 +30,7 @@ STACK    = ["Java", "Python", "JavaScript", "React", "Node.js", "Express.js", "F
 OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Stack Developer", "AI Engineer"]
 ```
 
-## `$ ls tech-stack/`
+## Tech-Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ echo $SPECIALTY`
+## Speciality
 
 <div align="center">
 
@@ -51,7 +51,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ grep -r expertise/`
+## Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -62,7 +62,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 | Web Applications | ![Core](https://img.shields.io/badge/Core-A6E3A1?style=flat-square&labelColor=1E1E2E) | React, JavaScript |
 | Intelligent Automation | ![Growing](https://img.shields.io/badge/Growing-F38BA8?style=flat-square&labelColor=1E1E2E) | AI-driven workflows |
 
-## `$ tail -f experience.log`
+## Experience
 
 **Front-end AI Engineering Intern** · FlyRank.ai
 `July 2026 — September 2026`
@@ -79,15 +79,15 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 ![Generative UI](https://img.shields.io/badge/Generative%20UI-F38BA8?style=flat-square&labelColor=1E1E2E)
 ![Streaming AI Interfaces](https://img.shields.io/badge/Streaming%20AI%20Interfaces-F38BA8?style=flat-square&labelColor=1E1E2E)
 
-## `$ cat education.md`
+## Education
 
 [![Education](https://img.shields.io/badge/B.Tech%20CSE-Pranveer%20Singh%20Institute%20of%20Technology-89B4FA?style=for-the-badge&labelColor=1E1E2E)](#)
 
-## `$ curl leetcode.com/Ayushi4206`
+## Leetcode.com/Ayushi4206
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ayushi4206-A6E3A1?style=for-the-badge&logo=leetcode&logoColor=1E1E2E)](https://leetcode.com/u/fexyrNKjrs)
 
-## `$ fetch github-analytics/`
+## Github-Analytics
 
 <div align="center">
 
@@ -98,7 +98,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ generate summary-cards/`
+## Generate Summary-Cards
 
 <div align="center">
 
@@ -110,7 +110,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ ./run contribution-snake.sh`
+## Contribution-Snake
 
 <div align="center">
 
@@ -118,7 +118,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ cat current_focus.yaml`
+## Current_Focus
 
 ```yaml
 current_focus:
@@ -141,7 +141,7 @@ current_focus:
     - Software Engineering Intern
 ```
 
-## `$ ./connect.sh`
+## Connect
 
 <div align="center">
 
