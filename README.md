@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1E2E,100:CBA6F7&height=200&section=header&text=Ayushi%20Gupta&fontSize=42&fontColor=CBA6F7&fontAlignY=35&desc=AI-Integrated%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=CBA6F7&background=1E1E2E&center=true&vCenter=true&width=650&lines=Who_Am_I+%E2%86%92+Ayushi+Gupta;Role+%E2%86%92+AI-Integrated+Full-Stack+Developer;Stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;Focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;Status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=CBA6F7&background=1E1E2E&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Ayushi+Gupta;%24+role+%E2%86%92+AI-Integrated+Full-Stack+Developer;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;%24+focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;%24+status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
 
 [![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-CBA6F7?style=flat-square&labelColor=1E1E2E)](#)
 [![University](https://img.shields.io/badge/University-Pranveer%20Singh%20Institute%20of%20Technology-CBA6F7?style=flat-square&labelColor=1E1E2E)](#)
@@ -18,7 +18,7 @@
 
 </div>
 
-
+## `$ cat about.md`
 
 I'm a Computer Science & Engineering undergraduate building full-stack applications with AI woven into the frontend, backend, APIs, and workflows — not bolted on as an afterthought. I care about turning intelligent systems into practical, usable software, across web apps, automation, and engineering tools.
 
@@ -30,39 +30,54 @@ STACK    = ["Java", "Python", "JavaScript", "React", "Node.js", "Express.js", "F
 OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Stack Developer", "AI Engineer"]
 ```
 
-## Tech-stack
+## `$ ls tech-stack/ --group-by=category`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,fastapi&theme=dark" /><br/>
+<sub>🟣 Core / AI &nbsp; 🟢 Frontend &nbsp; 🔵 Backend &nbsp; 🌸 AI Features &nbsp; ⬛ Tooling</sub>
+
+![Languages](https://img.shields.io/badge/LANGUAGES-CBA6F7?style=flat-square&labelColor=1E1E2E)
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+
+![Frontend](https://img.shields.io/badge/FRONTEND-A6E3A1?style=flat-square&labelColor=1E1E2E)
+<br/>
+<img src="https://skillicons.dev/icons?i=javascript,react&theme=dark" />
+
+![Backend](https://img.shields.io/badge/BACKEND-89B4FA?style=flat-square&labelColor=1E1E2E)
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+![Data & Tools](https://img.shields.io/badge/DATA%20%26%20TOOLS-F38BA8?style=flat-square&labelColor=1E1E2E)
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
 
 </div>
 
-## Speciality
+## `$ echo $SPECIALTY`
 
 <div align="center">
 
-![AI Integration](https://img.shields.io/badge/AI%20Integration-CBA6F7?style=flat-square&labelColor=1E1E2E)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-CBA6F7?style=flat-square&labelColor=1E1E2E)
-![Generative UI](https://img.shields.io/badge/Generative%20UI-CBA6F7?style=flat-square&labelColor=1E1E2E)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-CBA6F7?style=flat-square&labelColor=1E1E2E)
-![Streaming Interfaces](https://img.shields.io/badge/Streaming%20AI%20Interfaces-CBA6F7?style=flat-square&labelColor=1E1E2E)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-89B4FA?style=flat-square&labelColor=1E1E2E)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-F38BA8?style=flat-square&labelColor=1E1E2E)
+![Generative UI](https://img.shields.io/badge/Generative%20UI-F38BA8?style=flat-square&labelColor=1E1E2E)
+![Streaming Interfaces](https://img.shields.io/badge/Streaming%20AI%20Interfaces-F38BA8?style=flat-square&labelColor=1E1E2E)
 
 </div>
 
-## Expertise
+## `$ grep -r expertise/`
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Full-Stack Development | Core | React, Node.js, Express.js, REST APIs |
-| AI-Integrated Applications | Core | Generative UI, AI workflow integration, streaming interfaces |
-| Backend & APIs | Intermediate | FastAPI, Node.js, Express.js, REST APIs |
-| Databases | Intermediate | SQL, MySQL |
-| Web Applications | Core | React, JavaScript |
-| Intelligent Automation | Growing | AI-driven workflows |
+| Full-Stack Development | ![Core](https://img.shields.io/badge/Core-CBA6F7?style=flat-square&labelColor=1E1E2E) | React, Node.js, Express.js, REST APIs |
+| AI-Integrated Applications | ![Core](https://img.shields.io/badge/Core-F38BA8?style=flat-square&labelColor=1E1E2E) | Generative UI, AI workflow integration, streaming interfaces |
+| Backend & APIs | ![Intermediate](https://img.shields.io/badge/Intermediate-89B4FA?style=flat-square&labelColor=1E1E2E) | FastAPI, Node.js, Express.js, REST APIs |
+| Databases | ![Intermediate](https://img.shields.io/badge/Intermediate-89B4FA?style=flat-square&labelColor=1E1E2E) | SQL, MySQL |
+| Web Applications | ![Core](https://img.shields.io/badge/Core-A6E3A1?style=flat-square&labelColor=1E1E2E) | React, JavaScript |
+| Intelligent Automation | ![Growing](https://img.shields.io/badge/Growing-F38BA8?style=flat-square&labelColor=1E1E2E) | AI-driven workflows |
 
-## Experience
+## `$ tail -f experience.log`
 
 **Front-end AI Engineering Intern** · FlyRank.ai
 `July 2026 — September 2026`
@@ -71,17 +86,23 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 - Worked across the stack with React, JavaScript, Node.js, and Express to ship production-style app patterns
 - Used Zod for schema validation across API and data flows
 
-`React` `JavaScript` `Node.js` `Express.js` `Zod` `Generative UI` `Streaming AI Interfaces`
+![React](https://img.shields.io/badge/React-A6E3A1?style=flat-square&labelColor=1E1E2E)
+![JavaScript](https://img.shields.io/badge/JavaScript-A6E3A1?style=flat-square&labelColor=1E1E2E)
+![Node.js](https://img.shields.io/badge/Node.js-89B4FA?style=flat-square&labelColor=1E1E2E)
+![Express.js](https://img.shields.io/badge/Express.js-89B4FA?style=flat-square&labelColor=1E1E2E)
+![Zod](https://img.shields.io/badge/Zod-313244?style=flat-square&labelColor=1E1E2E)
+![Generative UI](https://img.shields.io/badge/Generative%20UI-F38BA8?style=flat-square&labelColor=1E1E2E)
+![Streaming AI Interfaces](https://img.shields.io/badge/Streaming%20AI%20Interfaces-F38BA8?style=flat-square&labelColor=1E1E2E)
 
-## Education
+## `$ cat education.md`
 
 [![Education](https://img.shields.io/badge/B.Tech%20CSE-Pranveer%20Singh%20Institute%20of%20Technology-CBA6F7?style=for-the-badge&labelColor=1E1E2E)](#)
 
-## leetcode.com/Ayushi4206
+## `$ curl leetcode.com/Ayushi4206`
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ayushi4206-CBA6F7?style=for-the-badge&logo=leetcode&logoColor=1E1E2E)](https://leetcode.com/u/fexyrNKjrs)
 
-## Github-Analytics
+## `$ fetch github-analytics/`
 
 <div align="center">
 
@@ -92,7 +113,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## Trophies
+## `$ ./show_trophies.sh`
 
 <div align="center">
 
@@ -100,7 +121,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## Activity-Graph
+## `$ plot activity-graph.svg`
 
 <div align="center">
 
@@ -108,7 +129,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## Summary
+## `$ generate summary-cards/`
 
 <div align="center">
 
@@ -120,7 +141,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## Contribution-snake
+## `$ ./run contribution-snake.sh`
 
 <div align="center">
 
@@ -128,7 +149,7 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## Current_focus
+## `$ cat current_focus.yaml`
 
 ```yaml
 current_focus:
@@ -151,7 +172,7 @@ current_focus:
     - Software Engineering Intern
 ```
 
-## Connect
+## `$ ./connect.sh`
 
 <div align="center">
 
