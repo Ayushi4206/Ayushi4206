@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CBA6F7,35:89B4FA,70:A6E3A1,100:F38BA8&height=200&section=header&text=Ayushi%20Gupta&fontSize=42&fontColor=1E1E2E&fontAlignY=35&desc=AI-Integrated%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A6E3A1&background=1E1E2E&center=true&vCenter=true&width=650&lines=Who_Am_I+%E2%86%92+Ayushi+Gupta;Role+%E2%86%92+AI-Integrated+Full-Stack+Developer;Stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;Focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;%24+status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A6E3A1&background=1E1E2E&center=true&vCenter=true&width=650&lines=Who_Am_I+%E2%86%92+Ayushi+Gupta;Role+%E2%86%92+AI-Integrated+Full-Stack+Developer;Stack+%E2%86%92+React+%7C+Node.js+%7C+FastAPI+%7C+SQL;Focus+%E2%86%92+Building+AI+into+frontend%2C+backend%2C+APIs;Status+%E2%86%92+open_to_work+%3D+true" alt="Typing SVG" />
 
 [![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-CBA6F7?style=flat-square&labelColor=1E1E2E)](#)
 [![University](https://img.shields.io/badge/University-Pranveer%20Singh%20Institute%20of%20Technology-89B4FA?style=flat-square&labelColor=1E1E2E)](#)
