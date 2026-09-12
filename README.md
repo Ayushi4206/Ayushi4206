@@ -98,22 +98,6 @@ OPEN_TO  = ["AI-Integrated Full-Stack Developer", "Software Engineer", "Full-Sta
 
 </div>
 
-## `$ ./show_trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushi4206&no-frame=true&no-bg=true&row=1&column=7&title_color=A6E3A1&icon_color=F38BA8&text_color=CDD6F4&background_color=1E1E2E" />
-
-</div>
-
-## `$ plot activity-graph.svg`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi4206&bg_color=1E1E2E&color=A6E3A1&line=89B4FA&point=F38BA8&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 ## `$ generate summary-cards/`
 
 <div align="center">
